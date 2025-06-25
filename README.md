@@ -123,6 +123,7 @@ AttriSense/
 
 - Python 3.7 or higher
 - pip (Python package manager)
+- Kaggle Dataset : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## 🛠️ Installation
 
