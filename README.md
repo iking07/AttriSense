@@ -95,9 +95,10 @@ AttriSense/
 
 ## How Does it Work?
 
-![Screenshot 2025-06-25 014130](https://github.com/user-attachments/assets/b968ea2c-d93a-44cb-8196-518b79666ef4)
+![Screenshot 2025-06-25 145005](https://github.com/user-attachments/assets/567f9ad0-0295-4fe3-a31e-d8525f7a600b)
 
-![Screenshot 2025-06-25 014143](https://github.com/user-attachments/assets/bb31fa60-3120-4d4e-a25e-34b7bb7570bd)
+![Screenshot 2025-06-25 144954](https://github.com/user-attachments/assets/9a7d9d61-f532-4d4c-926d-3c5040e3d9e3)
+
 
 
 
