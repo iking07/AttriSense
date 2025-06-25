@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AttriSense</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>AttriSense - Employee Attrition Predictor</h1>
+        <form action="/predict" method="post">
+    <label for="satisfaction">Satisfaction Level:</label>
+    <input type="number" name="satisfaction" required>
+
+    <label for="income">Monthly Income:</label>
+    <input type="number" name="income" required>
+
+    <label for="years">Years at Company:</label>
+    <input type="number" name="years" required>
+
+    <label for="overtime">Overtime (1 = Yes, 0 = No):</label>
+    <input type="number" name="overtime" min="0" max="1" required>
+
+    <label for="balance">Work-life Balance (1–4):</label>
+    <input type="number" name="balance" min="1" max="4" required>
+
+    <input type="submit" value="Predict">
+</form>
+    </div>
+</body>
+</html>
